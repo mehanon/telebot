@@ -1,6 +1,6 @@
-module gopkg.in/telebot.v3
+module github.com/mehanon/telebot
 
-go 1.13
+go 1.18
 
 require (
 	github.com/goccy/go-yaml v1.9.5
